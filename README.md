@@ -10,8 +10,10 @@ First you can used the file pre_crop to make the new-tsetset and the new-trainse
 Than train this model by main.py
 
 After trained, you may test your modle by output.py. Be careful you have to do the following:
-1.set the modle_load way.
-2.set the new_whale thread.
+
+* set the modle_load way.
+
+* set the new_whale thread.
 
 Then the result will out!
 

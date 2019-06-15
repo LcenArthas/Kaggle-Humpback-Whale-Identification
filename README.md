@@ -1,5 +1,5 @@
 # Kaggle-Humpback-Whale-Identification
-This is my first kaggle competition,and the final score is 190/2131, Top 9%.
+This is my first kaggle competition,and the final score is 120/2131, Top 6%.
 
 The baseline is the MGN, and you can find it in this https://arxiv.org/abs/1804.01438
 
